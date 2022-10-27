@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Josefin+Sans:wght@300&display=swap');
+
+#container{
+    width:40%;
+    margin-left:35%;
+    font-size:20px;
+}
+
+table, tr,th,td {
+    border:1px solid #000;
+    border-collapse:collapse;
+}
+
+thead{
+    color:red;
+    text-transform: uppercase;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+tbody{
+    color: #089fd6;
+    text-transform: capitalize;
+    font-family: 'Fasthand', cursive;
+}
+
+tfoot{
+    color:green;
+    text-transform: capitalize;
+}
+

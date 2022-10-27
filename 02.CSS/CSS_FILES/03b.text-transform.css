@@ -1,0 +1,21 @@
+
+#container{
+    width:40%;
+    margin-left:35%;
+    font-size:20px;
+}
+
+
+.par2{
+    text-transform: capitalize;
+
+}
+
+.par3{
+    text-transform: lowercase;
+}
+
+.par4{
+    text-transform: uppercase
+}
+
