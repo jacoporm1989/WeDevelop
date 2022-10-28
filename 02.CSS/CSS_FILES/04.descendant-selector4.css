@@ -1,0 +1,46 @@
+#container{
+    width:40%;
+    margin-left:35%;
+    font-size:20px;
+}
+
+.arsenal h1{
+    color:white;
+    background-color:red;
+}
+
+
+.atletico h1{
+    color:white;
+    background-color:crimson;
+}
+
+
+.borussia h1{
+    color:black;
+    background-color:yellow;
+    
+
+}
+
+.arsenal p{
+
+    text-transform: uppercase;
+
+}
+
+.atletico p{
+
+    text-transform: uppercase;
+
+}
+
+.borussia{
+    text-transform: uppercase;
+
+}
+
+
+
+
+
