@@ -4,6 +4,9 @@
     font-size:20px;
 }
 
+.arsenal p:nth-child(2){
+    background-color:greenyellow;
+}
 
 .arsenal h1{
     color:white;
