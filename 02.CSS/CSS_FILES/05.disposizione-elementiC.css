@@ -1,0 +1,27 @@
+
+#container{
+    border:1px solid red;
+    width:980px;
+    height:650px;
+}
+
+div{
+    width:15%;
+    height: 15%;
+    margin-left:12%;
+    margin-top:12%;
+}
+#quadrato1{
+
+    background-color:red;
+   
+}
+#quadrato2{
+
+    background-color:blueviolet;
+}
+#quadrato3{
+
+    background-color:yellow;
+    
+}
